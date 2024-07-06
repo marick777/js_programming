@@ -14,12 +14,10 @@ Extensions:
     Code Runner
     Prettier - Code formatter
     JavaScript (ES6) code snippets
-    
     npm Intellisense
     Playwright Test for VSCode
     Playwright Snippets
     Playwright Test Snippets
-
     Tabnine
 
 
