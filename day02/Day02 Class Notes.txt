@@ -5,14 +5,17 @@ Topics:
     Arrays
     Functions
     Class & Objects
-    Inheritance
     AI Tools In Coding
 
 
 
 Next Class:
+    0. Inheritance
     1. Exceptions
-    2. Asynchronous Programming in JS
+    2. Asynchronous Programming in JS:
+            promise
+            Asynch
+            Await
     
     3. Introduction to Playwright
     4. Playwright Installation & Setup
