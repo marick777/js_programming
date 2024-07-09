@@ -4,15 +4,15 @@ Topics:
     String
     Arrays
     Functions
-    Class & Objects
     AI Tools In Coding
 
 
 
 Next Class:
-    0. Inheritance
-    1. Exceptions
-    2. Asynchronous Programming in JS:
+    1. Inheritance
+    2. Class & Objects
+    3. Exceptions
+    4. Asynchronous Programming in JS:
             promise
             Asynch
             Await
